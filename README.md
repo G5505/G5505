@@ -19,7 +19,7 @@
 
 <hr>
 
-### 🚀 Tools I Use
+### 🚀 programming langusges
 
 
 
@@ -28,7 +28,9 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+
+
 
 ---
 
