@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 
-<img src="[https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif)" alt="Workspace" width="40%" /><br> 
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Workspace" width="40%" /><br> 
 
 <details>
   <summary><strong>Busy coding & vibing to:</strong></summary>
