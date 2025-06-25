@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-##<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" /> <br>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /><br> 
 
 <details>
@@ -43,7 +43,6 @@
 - 🌱 Currently learning **Flutter** and **Web Development**.
 - 🐧 I love exploring **GNU/Linux** and open-source technologies.
 - 🎬 Ask me about **PC building, movies, or anything tech!**
-- 📫 Find me on Telegram: [@yourtelegramhandle](https://t.me/yourtelegramhandle)
 - ⚡ Fun fact: Banging your head against a wall for one hour burns **150 calories**.
 
 ---
