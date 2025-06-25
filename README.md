@@ -36,9 +36,8 @@
 
 ### About Me
 
-- 👩‍💻 Hi, I’m Nazli, a passionate Software Engineer.
-- 🌱 Currently learning **Flutter** and **Web Development**.
-- 🐧 I love exploring **GNU/Linux** and open-source technologies.
+- 🥷🏻 Hi, I’m Nazli, a passionate Software Engineer.
+- 🌱 Currently learning **Data str.** and **Java **.
 - 🎬 Ask me about **PC building, movies, or anything tech!**
 - ⚡ Fun fact: Banging your head against a wall for one hour burns **150 calories**.
 
