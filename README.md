@@ -34,7 +34,7 @@
 ### About Me
 
 - 💻 Hi, I’m Nazli, a passionate Software Engineer.
-- 🌱 Currently learning **Data str.** and **Java **.
+- 🌱 Currently learning **Data str.** and **Java**.
 - 🎬 Ask me about **PC building, movies, or anything tech!**
 
 
@@ -46,5 +46,5 @@
 
 
 
-### Code Cycle
+
 
