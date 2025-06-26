@@ -4,16 +4,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Workspace" width="80%" /><br> 
 
 <details>
-  <summary><strong>Busy coding & vibing to:</strong></summary>
+  <summary><strong>Busy coding</strong></summary>
   <br>
   [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 </details>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat&color=orange&label=PROFILE+VIEWS)
-
-[![Telegram](https://img.shields.io/badge/Nazli-grey?style=flat&logo=telegram)](https://t.me/yourtelegramhandle)
 
 </div>
 
